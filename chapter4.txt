@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is chapter 4 in master branch, this is added to add a one more commit to master branch.
+=======
+this is the chapter 4 which is in the new branch which is now different from the master branch.
+>>>>>>> new
